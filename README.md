@@ -1,4 +1,4 @@
-# Team_Generator
+# Challenege - 404 Not Found
 [![Generic badge](https://img.shields.io/badge/HTML5-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/CSS3-red.svg)](https://shields.io/)
 
@@ -13,10 +13,7 @@ Challenge: Create a 404 not found page following the design provided. The page s
 ## Table of Contents
   * [Screenshots](#screenshot)
   * [Installation](#installation)
-  * [Usage](#usage)
-  * [Test](#test)
   * [Credits](#credits)
-  * [License](#license)
   * [Questions](#questions)
 
 ## Screenshots
