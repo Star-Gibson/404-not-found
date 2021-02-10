@@ -72,3 +72,13 @@ button{
   display: flex;
 }
 
+/* Footer */
+
+.footer{
+  text-align: center;
+}
+
+.footer a{
+  color: rgb(228, 142, 21);
+  text-decoration: none;
+}
