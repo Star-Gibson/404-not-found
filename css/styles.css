@@ -1,0 +1,74 @@
+
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
+/* General Styling */
+*{
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Righteous", cursive;
+}
+
+p{
+  color: rgb(126, 122, 122)
+}
+
+img{
+  border-style: none;
+  width: 290px;
+  height: 240px;
+  display: flex;
+  margin: 0 auto;
+}
+
+.wrapper{
+  padding: 20px 20px;
+}
+
+/* Header & Nav */
+header{
+  max-width: 1200px;
+  margin: auto auto;
+}
+
+nav{
+  text-transform: uppercase;
+  font-size: 30px;
+  letter-spacing: -2px;
+}
+
+
+/* Main */
+
+h1{
+  font-size: 2.5rem; 
+  margin: 35px 0;
+}
+ 
+.content{
+  max-width: 500px;
+  margin: auto auto;
+}
+
+.message{
+  line-height: 1.5rem;
+  max-width: 350px;
+}
+
+button{
+  font-family: "Righteous", cursive;
+  background-color: rgb(54, 59, 59);
+  color: white;
+  width: 250px;
+  height: 50px;
+  cursor: pointer;
+  margin: 35px 0;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
