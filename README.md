@@ -1,75 +1,40 @@
-<!-- Please update value in the {}  -->
+# Team_Generator
+[![Generic badge](https://img.shields.io/badge/HTML5-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/CSS3-red.svg)](https://shields.io/)
 
-<h1 align="center">{Your project name}</h1>
+## Challenge Description: 
+This challenge was provided by [DevChallenges.io](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
-    </a>
-  </h3>
-</div>
-
-<!-- TABLE OF CONTENTS -->
+Challenge: Create a 404 not found page following the design provided. The page should be responsive. Fulfill the user story provided below: 
+  * User story: I can see a page that follows the given design.
+  * Design: <img width="1273" alt="404-Design" src="https://user-images.githubusercontent.com/72622031/107451141-b085aa80-6b14-11eb-92f2-6ea0a6cf1ff7.png">
+   
 
 ## Table of Contents
+  * [Screenshots](#screenshot)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Test](#test)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Questions](#questions)
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+## Screenshots
+## iPhoneX 
+<img width="" height="500" alt="iphoneX-View" src="https://user-images.githubusercontent.com/72622031/107451229-d8750e00-6b14-11eb-9721-0b6c089abf74.png">
 
-<!-- OVERVIEW -->
+## Desktop
+<img width="" height="500" alt="Desktop-View" src="https://user-images.githubusercontent.com/72622031/107451426-3d306880-6b15-11eb-81e5-8ba7828d3d60.png">
 
-## Overview
+     
+## Installation
+* Clone the repository.
+* Open the index.html file and open in your default browser.
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
-### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+## Credits
+Design provided by DevChallenges.io, but developed in full by Star Gibson.
 
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
-## Contact
-
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+## Questions
+  * Github: https://github.com/star-gibson
+  * Please feel free to reach out to me on Github (above) or send an email to sgibsoncoding@gmail.com if you have any questions about this completed challenge!
