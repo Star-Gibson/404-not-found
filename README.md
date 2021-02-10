@@ -14,7 +14,6 @@ Challenge: Create a 404 not found page following the design provided. The page s
   * [Screenshots](#screenshot)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Test](#test)
   * [Credits](#credits)
   * [License](#license)
   * [Questions](#questions)
